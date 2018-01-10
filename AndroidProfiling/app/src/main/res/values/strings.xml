@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Profiling</string>
+
+    <string name="server_ip">https://ec2-34-249-32-188.eu-west-1.compute.amazonaws.com:8000</string>
+    <string name="auth_ip">https://ec2-34-249-32-188.eu-west-1.compute.amazonaws.com:8001</string>
+    <string name="hostname">ec2-34-249-32-188.eu-west-1.compute.amazonaws.com</string>
+
+    <!-- Strings related to login -->
+    <string name="changed_my_sim">Changed my SIM</string>
+    <string name="new_profile">New Profile</string>
+    <string name="cancel_account">Cancel Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="exit">Exit</string>
+    <string name="don_apos_t_have_credentials_register">Don\'t have credentials? Register!</string>
+    <string name="log_in">Log In</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="quit">Quit</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_log_in_here">Already have an account? Log In here</string>
+    <string name="confirm">Confirm</string>
+    <string name="code">Code</string>
+</resources>
